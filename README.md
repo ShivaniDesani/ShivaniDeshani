@@ -1,4 +1,4 @@
-# 💫 Hi there 👋 I'm **Shivani Deshani** 🚀 **Shopify App Developer & Full-Stack Engineer** *Building Scalable E-Commerce Products | React, Next.js, GraphQL | Magento Enthusiast*
+# 💫 Hi there 👋 I'm **Shivani Deshani** <br><br>🚀 **Shopify App Developer & Full-Stack Engineer** *Building Scalable E-Commerce Products | React, Next.js, GraphQL | Magento Enthusiast*
 
 I’m a **Software Developer with 2+ years of experience** building production-grade Shopify and eCommerce applications. I specialize in creating scalable, high-performance solutions using modern frontend and backend technologies.
 
@@ -29,7 +29,7 @@ I’m a **Software Developer with 2+ years of experience** building production-g
   * **Role:** Full-stack Developer (Performance & UI)
   * **Impact:** Focused on scaling the app's internal performance and merchant experience.
   * **Key Tech:** Optimized **Admin Performance**, executed major **UI/UX enhancements**, and led the development of advanced custom features.
-* **[Cookiefy ‑ Privacy Policy]** | [[App Store](Cookiefy ‑ Privacy Policy)]
+* **[Cookiefy ‑ Privacy Policy]** | [[App Store](https://apps.shopify.com/responsive-cookie-consent-by-appifycommerce)]
   * **Role:** Backend & Admin UI Developer
   * **Impact:** Enhanced the merchant's configuration experience by building a robust and user-friendly admin management area.
   * **Key Tech:** Developed specialized **Admin Area enhancements**, implemented strict **Admin Field Validations** to ensure data integrity, and managed complex backend administrative tasks to streamline app configuration.
