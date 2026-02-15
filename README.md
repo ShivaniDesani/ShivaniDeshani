@@ -17,15 +17,36 @@ I’m a **Software Developer with 2+ years of experience** building production-g
 
 ---
 
-### 🏗️ Professional Contributions (Shopify App Store)
-*While my daily contributions are in private repositories, you can see my work in action in these publicly listed apps:*
+### 🏗️ Professional Contributions (Shopify & Magento)
+*While my daily contributions are in private repositories, here is a showcase of my work in action, ranging from modern Shopify App development to Magento plugin architecture:*
 
-* **[App Name 1]** | [Link to Shopify App Store]
-  * *Role:* Full-stack Developer.
-  * *Impact:* Optimized the Merchant UI using Polaris and built core [Feature Name] logic.
-* **[App Name 2]** | [Link to Shopify App Store]
-  * *Role:* Backend Engineer.
-  * *Impact:* Led the migration from REST to GraphQL, reducing API latency by 40%.
+#### 🛍️ Shopify App Ecosystem (Latest)
+* **[Bundalify Bought Together]** | [[App Store](https://apps.shopify.com/bought-together-bundles)]
+  * **Role:** Full-stack Developer (Lead Migration)
+  * **Impact:** Spearheaded the end-to-end transformation from a legacy codebase to a modern Shopify architecture.
+  * **Key Tech:** Refactored the **Storefront UI**, implemented a modern **Admin Dashboard**, migrated the backend to the **GraphQL Admin API**, and overhauled the entire API infrastructure.
+* **[AC ‑ Questions & Answers]** | [[App Store](https://apps.shopify.com/product-questions-and-answers-by-appifycommerce)]
+  * **Role:** Full-stack Developer (Performance & UI)
+  * **Impact:** Focused on scaling the app's internal performance and merchant experience.
+  * **Key Tech:** Optimized **Admin Performance**, executed major **UI/UX enhancements**, and led the development of advanced custom features.
+* **[Cookiefy ‑ Privacy Policy]** | [[App Store](Cookiefy ‑ Privacy Policy)]
+  * **Role:** Backend & Admin UI Developer
+  * **Impact:** Enhanced the merchant's configuration experience by building a robust and user-friendly admin management area.
+  * **Key Tech:** Developed specialized **Admin Area enhancements**, implemented strict **Admin Field Validations** to ensure data integrity, and managed complex backend administrative tasks to streamline app configuration.
+
+#### 🐘 Magento Platform & Plugin Development
+* **[Accessibility Toolkit]** | [[Plugin Link](https://commercemarketplace.adobe.com/appifycommerce-accessibility.html)]
+  * **Role:** Magento Developer
+  * **Impact:** Delivered a seamless Q&A experience tailored for the Magento ecosystem.
+  * **Key Tech:** Developed complex **data mapping** logic, enhanced **Storefront UI components**, and implemented core feature logic within the Magento framework.
+* **[Cookiefy ‑ Privacy Policy]** | [[Plugin Link](https://commercemarketplace.adobe.com/appifycommerce-cookiefy.html)]
+  * **Role:** Backend/Magento Developer
+  * **Impact:** Built the complete data flow from the admin panel to the customer-facing storefront.
+  * **Key Tech:** Created custom **Magento Admin fields**, handled complex **data mapping**, and ensured compliant storefront rendering.
+* **[Bizify ‑ WhatsApp Chat]** | [[Plugin Link](https://commercemarketplace.adobe.com/appifycommerce-whatsappify.html)]
+  * **Role:** Junior Developer (Experimental Project)
+  * **Impact:** My "entry-to-eCommerce" project where I cloned and rebuilt the functionality from scratch to understand plugin architecture.
+  * **Key Tech:** Implemented full logic and storefront integration on the Magento platform.
 
 ---
 
@@ -48,4 +69,3 @@ I’m a **Software Developer with 2+ years of experience** building production-g
 
 ### 🤝 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-desani-293ab0206)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
