@@ -1,4 +1,4 @@
-# 💫 Hi there 👋 I'm **Shivani Deshani** <br><br>🚀 **Shopify App Developer & Full-Stack Engineer** *Building Scalable E-Commerce Products | React, Next.js, GraphQL | Magento Enthusiast*
+# 💫 Hi there 👋 I'm **Shivani** <br><br>🚀 **Shopify App Developer & Full-Stack Engineer** *Building Scalable E-Commerce Products | React, Next.js, GraphQL | Magento Enthusiast*
 
 I’m a **Software Developer with 2+ years of experience** building production-grade Shopify and eCommerce applications. I specialize in creating scalable, high-performance solutions using modern frontend and backend technologies.
 
