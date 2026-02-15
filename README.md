@@ -8,7 +8,7 @@ I’m a **Software Developer with 2+ years of experience** building production-g
 *  Currently working as a **Shopify Developer at Appifycommerce**
 *  Experienced in **Shopify App Development, API Integrations, and Performance Optimization**
 *  Expertise in migrating Shopify apps from **REST to GraphQL** to improve efficiency
-*  Deeply involved in **Theme App Extensions** and **Shopify Functions**
+*  Deeply involved in **Theme App Extensions**
 
 ###  Current Focus
 *  **Exploring Figma to Shopify:** Learning the workflow of translating high-fidelity designs into functional, responsive Shopify store elements.
