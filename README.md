@@ -21,7 +21,7 @@ I’m a **Software Developer with 2+ years of experience** building production-g
 *While my daily contributions are in private repositories, here is a showcase of my work in action, ranging from modern Shopify App development to Magento plugin architecture:*
 
 #### 🛍️ Shopify App Ecosystem (Latest)
-* **[Bundalify Bought Together]** | [[App Store](https://apps.shopify.com/bought-together-bundles)]
+* **[Bundlify ‑ Bought together]** | [[App Store](https://apps.shopify.com/bought-together-bundles)]
   * **Role:** Full-stack Developer (Lead Migration)
   * **Impact:** Spearheaded the end-to-end transformation from a legacy codebase to a modern Shopify architecture.
   * **Key Tech:** Refactored the **Storefront UI**, implemented a modern **Admin Dashboard**, migrated the backend to the **GraphQL Admin API**, and overhauled the entire API infrastructure.
