@@ -11,9 +11,10 @@ I’m a **Software Developer with 2+ years of experience** building production-g
 * 🛠️ Deeply involved in **Theme App Extensions** and **Shopify Functions**
 
 ### 🎯 Current Focus
-* 🚀 **Headless Commerce:** Building performant storefronts using Shopify Hydrogen & Remix.
-* 🦀 **Systems Programming:** Learning Rust specifically for high-performance Shopify Functions.
-* ⚡ **Web Vitals:** Optimizing Liquid and JS overhead to hit 90+ lighthouse scores for merchants.
+* 🎨 **Exploring Figma to Shopify:** Learning the workflow of translating high-fidelity designs into functional, responsive Shopify store elements.
+* 🛠️ **Deepening Liquid Knowledge:** Studying the Liquid templating language to build more dynamic and customizable theme sections.
+* ⚡ **Investigating Theme Performance:** Researching best practices for speed and optimization to understand how to build faster e-commerce experiences.
+* 🏗️ **Theme Customization:** Gaining hands-on experience with Shopify's theme editor and code structure to better understand merchant needs.
 
 ---
 
