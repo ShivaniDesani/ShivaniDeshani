@@ -1,27 +1,27 @@
-# 💫 Hi there 👋 I'm **Shivani** <br><br>🚀 **Shopify App Developer & Full-Stack Engineer** *Building Scalable E-Commerce Products | React, Next.js, GraphQL | Magento Enthusiast*
+# 💫 Hi there 👋 I'm **Shivani** <br><br>**Shopify App Developer & Full-Stack Engineer** *Building Scalable E-Commerce Products | React, Next.js, GraphQL | Magento Enthusiast*
 
 I’m a **Software Developer with 2+ years of experience** building production-grade Shopify and eCommerce applications. I specialize in creating scalable, high-performance solutions using modern frontend and backend technologies.
 
 ---
 
-### 👩‍💻 About Me
-* 💼 Currently working as a **Shopify Developer at Appifycommerce**
-* ⚡ Experienced in **Shopify App Development, API Integrations, and Performance Optimization**
-* 🔄 Expertise in migrating Shopify apps from **REST to GraphQL** to improve efficiency
-* 🛠️ Deeply involved in **Theme App Extensions** and **Shopify Functions**
+### About Me
+*  Currently working as a **Shopify Developer at Appifycommerce**
+*  Experienced in **Shopify App Development, API Integrations, and Performance Optimization**
+*  Expertise in migrating Shopify apps from **REST to GraphQL** to improve efficiency
+*  Deeply involved in **Theme App Extensions** and **Shopify Functions**
 
-### 🎯 Current Focus
-* 🎨 **Exploring Figma to Shopify:** Learning the workflow of translating high-fidelity designs into functional, responsive Shopify store elements.
-* 🛠️ **Deepening Liquid Knowledge:** Studying the Liquid templating language to build more dynamic and customizable theme sections.
-* ⚡ **Investigating Theme Performance:** Researching best practices for speed and optimization to understand how to build faster e-commerce experiences.
-* 🏗️ **Theme Customization:** Gaining hands-on experience with Shopify's theme editor and code structure to better understand merchant needs.
+###  Current Focus
+*  **Exploring Figma to Shopify:** Learning the workflow of translating high-fidelity designs into functional, responsive Shopify store elements.
+*  **Deepening Liquid Knowledge:** Studying the Liquid templating language to build more dynamic and customizable theme sections.
+*  **Investigating Theme Performance:** Researching best practices for speed and optimization to understand how to build faster e-commerce experiences.
+*  **Theme Customization:** Gaining hands-on experience with Shopify's theme editor and code structure to better understand merchant needs.
 
 ---
 
-### 🏗️ Professional Contributions (Shopify & Magento)
+###  Professional Contributions (Shopify & Magento)
 *While my daily contributions are in private repositories, here is a showcase of my work in action, ranging from modern Shopify App development to Magento plugin architecture:*
 
-#### 🛍️ Shopify App Ecosystem (Latest)
+#### Shopify App Ecosystem (Latest)
 * **[Bundlify ‑ Bought together]** | [[App Store](https://apps.shopify.com/bought-together-bundles)]
   * **Role:** Full-stack Developer (Lead Migration)
   * **Impact:** Spearheaded the end-to-end transformation from a legacy codebase to a modern Shopify architecture.
@@ -35,7 +35,7 @@ I’m a **Software Developer with 2+ years of experience** building production-g
   * **Impact:** Enhanced the merchant's configuration experience by building a robust and user-friendly admin management area.
   * **Key Tech:** Developed specialized **Admin Area enhancements**, implemented strict **Admin Field Validations** to ensure data integrity, and managed complex backend administrative tasks to streamline app configuration.
 
-#### 🐘 Magento Platform & Plugin Development
+#### Magento Platform & Plugin Development
 * **[Accessibility Toolkit]** | [[Plugin Link](https://commercemarketplace.adobe.com/appifycommerce-accessibility.html)]
   * **Role:** Magento Developer
   * **Impact:** Delivered a seamless Q&A experience tailored for the Magento ecosystem.
@@ -51,7 +51,7 @@ I’m a **Software Developer with 2+ years of experience** building production-g
 
 ---
 
-### 🛠️ Tech Stack:
+###  Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=shopify,react,nextjs,js,ts,tailwind,graphql,go,rust,php,mongodb,mysql,git,github,postman" />
