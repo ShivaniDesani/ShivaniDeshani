@@ -59,13 +59,5 @@ I’m a **Software Developer with 2+ years of experience** building production-g
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ShivaniDesani&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Shivani Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniDesani&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-desani-293ab0206)
